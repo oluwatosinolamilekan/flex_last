@@ -56,3 +56,27 @@ body .nav_list, .nav__list_links{
 	font-size: 40px;
 	font-weight: 900px;
 }
+/*BANNER STYING  END HERE HERE*/
+
+/*COLUMN STYING END HERE*/
+
+.columns__contanier{
+	margin: 0 auto;
+	max-width: 1011px;
+	width: 1011px;
+}
+
+.columns__row, .columns__d-flex{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.columns__column, .columns__column100{
+	flex: 0 0 100%;
+}
+
+.columns__column50{
+	flex: 0 0 50%;
+
+}
